@@ -58,4 +58,5 @@ public class Sql2oNewsDao implements NewsDao {
                         .executeAndFetch(DepartmentNews.class);
             }
         }
+
     }
